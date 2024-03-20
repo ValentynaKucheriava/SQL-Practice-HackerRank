@@ -5,6 +5,6 @@ These are scripts that answer questions from [HackerRank](https://www.hackerrank
 
 ### Difficulty: Easy
 
-| ID | Title | My Solution |
-| --- | --- | --- |
-| [Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true) | Weekly Orders Report | [SQL](Basic/Average_Population.sql)
+| Title | My Solution |
+| --- | --- |
+| [Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true) | [SQL](Basic/Average_Population.sql)
